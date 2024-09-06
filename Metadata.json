@@ -1,0 +1,55 @@
+[{
+  "description": "Friendly OpenSea Creature that enjoys another life.", 
+  "external_url": "https://kba.ai/", 
+  "image": "https://harlequin-actual-tapir-770.mypinata.cloud/ipfs/QmRBfcxzUbad3NvPniBH9FytxuXPyh8JcbTDegZzpjA2AB", 
+  "name": "Another Life Vibes",
+  "attributes": [ {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }, 
+    {
+      "trait_type": "Color", 
+      "value": "Blue"
+    }, 
+    {
+      "trait_type": "Skin", 
+      "value": "Ivory Blue"
+    }, 
+     {
+      "trait_type": "Hair", 
+      "value": "curly"
+    }, 
+
+    {
+      "trait_type": "Mouth", 
+      "value": "Smile"
+    } ]
+},
+
+{
+  "description": "Friendly OpenSea Creature that hoping for another life.", 
+  "external_url": "https://kba.ai/", 
+  "image": "https://harlequin-actual-tapir-770.mypinata.cloud/ipfs/QmZBG8mSQ1RqfVxoDvTyQQmAM8y7LjsfGDgC2dGEASs2u1", 
+  "name": "Another Life",
+  "attributes": [ {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }, 
+    {
+      "trait_type": "Color", 
+      "value": "Brown"
+    }, 
+    {
+      "trait_type": "Skin", 
+      "value": "Ivory Blue"
+    }, 
+     {
+      "trait_type": "Hair", 
+      "value": "curly"
+    }, 
+
+    {
+      "trait_type": "Mouth", 
+      "value": "Smile"
+    } ]
+}]
